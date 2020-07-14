@@ -8,19 +8,19 @@ public class Pet {
     private Owner owner;
     private LocalDate birthDate;
 
-    public PetType getPetType() {
+    public com.clinic.petclinic.model.PetType getPetType() {
         return petType;
     }
 
-    public void setPetType(PetType petType) {
+    public void setPetType(com.clinic.petclinic.model.PetType petType) {
         this.petType = petType;
     }
 
-    public Owner getOwner() {
+    public com.clinic.petclinic.model.Owner getOwner() {
         return owner;
     }
 
-    public void setOwner(Owner owner) {
+    public void setOwner(com.clinic.petclinic.model.Owner owner) {
         this.owner = owner;
     }
 
