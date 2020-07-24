@@ -1,5 +1,14 @@
 /home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/model/PetType.java
-/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/model/Person.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/map/AbstractMapService.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/CrudService.java
 /home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/model/Pet.java
 /home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/model/Vet.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/map/OwnerServiceMap.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/VetService.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/model/BaseEntity.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/map/PetServiceMap.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/OwnerService.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/model/Person.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/map/VetServiceMap.java
 /home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/model/Owner.java
+/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-data/src/main/java/com/clinic/petclinic/services/PetService.java
