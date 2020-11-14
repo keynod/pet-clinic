@@ -1,5 +1,5 @@
-/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/bootstrap/DataLoader.java
-/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/controllers/IndexController.java
-/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/controllers/OwnerController.java
-/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/PetClinicApplication.java
-/home/user/IdeaProjects/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/controllers/VetsController.java
+/home/user/IdeaProjects/Learn/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/controllers/VetsController.java
+/home/user/IdeaProjects/Learn/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/PetClinicApplication.java
+/home/user/IdeaProjects/Learn/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/bootstrap/DataLoader.java
+/home/user/IdeaProjects/Learn/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/controllers/OwnerController.java
+/home/user/IdeaProjects/Learn/SpringGuru/pet-clinic/pet-clinic-web/src/main/java/com/clinic/petclinic/controllers/IndexController.java
